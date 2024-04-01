@@ -2,7 +2,8 @@
 ### Administrador de Sistemas en Red
 
 Actualmente estoy cursando 1º de ASIR en:
-[![619.png](https://i.postimg.cc/g2K5Y9xF/619.png)](https://postimg.cc/bZsLTB03){width=2px} IES Rodrigo Caro
+[![619.png](./619(2).png) IES Rodrigo Caro
+<img src="./619(2).png" fa-1x>
 <!--
 **akaelepe/akaelepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
