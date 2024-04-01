@@ -1,9 +1,12 @@
-# Hola, mi nombre es Alejandro Lamprea 👋
-### Administrador de Sistemas en Red
+# Hola, mi nombre es Alejandro Lamprea Pérez 👋
+### Soy Administrador de Sistemas en Red
 
-Actualmente estoy cursando 1º de ASIR en:
-[![619.png](./619(2).png) IES Rodrigo Caro
-<img src="./619(2).png" fa-1x>
+#### Actualmente estoy cursando 1º de ASIR en:
+##### 📍 IES Rodrigo Caro
+### Sobre mí
+##### 💬 Enfocado en aprender scripting en bash
+##### 📡 Realizando el curso netacad certificado por Cisco
+##### 🖥️ Creación y mantenimiento de Servicios en red
 <!--
 **akaelepe/akaelepe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
