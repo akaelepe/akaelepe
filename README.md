@@ -3,7 +3,8 @@
 
 
 
-*Soy Administrador de Sistemas con una sólida formación en tecnologías de la información. Actualmente, me encuentro cursando el 2º año de ASIR, lo que me ha permitido adquirir conocimientos técnicos y habilidades. Además, de realizar cursos en [Open Webinars](https://openwebinars.net)*
+*Soy Administrador de Sistemas con una sólida formación en tecnologías de la información. Actualmente, me encuentro cursando el 2º año de ASIR, lo que me ha permitido adquirir conocimientos técnicos y habilidades. Además, de realizar cursos en [Open Webinars](https://openwebinars.net)*  
+[CV](./cv.md)
 
 ## Skills: 
 ![Static Badge](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;&nbsp;
