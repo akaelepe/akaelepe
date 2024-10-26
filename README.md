@@ -3,13 +3,22 @@
 
 
 
-*Soy Administrador de Sistemas con una sólida formación en tecnologías de la información. Actualmente, me encuentro cursando el 2º año de ASIR, lo que me ha permitido adquirir conocimientos técnicos y habilidades prácticas en el campo.*
+*Soy Administrador de Sistemas con una sólida formación en tecnologías de la información. Actualmente, me encuentro cursando el 2º año de ASIR, lo que me ha permitido adquirir conocimientos técnicos y habilidades. Además, de realizar cursos en [Open Webinars](https://openwebinars.net)*
 
-Mis áreas de interés incluyen:
+## Skills: 
+![Static Badge](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)&nbsp;&nbsp;
+![Static Badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;
+![Static Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;
+![Static Badge](https://img.shields.io/badge/Hugo-FF4088?style=for-the-badge&logo=hugo&logoColor=white)&nbsp;&nbsp;
+![Static Badge](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-Scripting en Bash: Me apasiona automatizar tareas y optimizar procesos a través de scripts.
-Servicios en Red: Tengo un interés particular en la configuración y gestión de servicios de red, así como en la seguridad y mantenimiento de los sistemas.
-Estoy comprometido con el aprendizaje continuo y la mejora de mis habilidades en el ámbito de la administración de sistemas.
+## Experiencia con SO's:  
+![Static Badge](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)&nbsp;&nbsp;
+![Static Badge](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)&nbsp;&nbsp;
+![Static Badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;&nbsp;
+![Static Badge](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)&nbsp;&nbsp;
+![Static Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;&nbsp;
+![Static Badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 ## Encuéntrame en:  
 ![Static Badge](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
