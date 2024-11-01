@@ -5,7 +5,10 @@
 
 *Soy Administrador de Sistemas con una sólida formación en tecnologías de la información. Actualmente, me encuentro cursando el 2º año de ASIR, lo que me ha permitido adquirir conocimientos técnicos y habilidades. Además, de realizar cursos en [Open Webinars](https://openwebinars.net)*  
 <br>
-[![Ver CV](https://img.shields.io/badge/Ver%20Curriculum%20aqui-orange?style=for-the-badge)](./cv.md)
+[![Ver CV](https://img.shields.io/badge/Ver%20Curriculum%20aqui-orange?style=for-the-badge)](./cv.md)  
+
+![GitHub Watchers](https://img.shields.io/github/watchers/akaelepe/akaelepe?style=social)
+
 
 
 ## Skills: 
